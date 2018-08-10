@@ -1,5 +1,6 @@
 # JAEHYUN KIM 
 Monmouth Junction, NJ 08852 | (201) 759-6809 | jhkim101490@gmail.com
+
 LinkedIn: www.linkedin.com/in/jhkim101490
 GitHub: github.com/jk1537/Resume
 
