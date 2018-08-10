@@ -6,11 +6,11 @@ Monmouth Junction, NJ 08852 | (201) 759-6809 | jhkim101490@gmail.com
 
 # EDUCATION
 - Rutgers University, New Brunswick, NJ
-	Bachelor of Computer Science in Major							May 2019
+Bachelor of Computer Science in Major							May 2019
 
 - Bergen Community College, Paramus, NJ
-	Associate Degree of Computer Science in 	                                                May 2017
-	Honors:  Phi Thea Kappa Honor Society, 2015
+Associate Degree of Computer Science in 	                                                May 2017
+Honors:  Phi Thea Kappa Honor Society, 2015
 								       
 # TECHNICAL SKILLS
 - Programs: Microsoft Office, Microsoft Visual Studio, Microsoft Code, Eclipse, Git, Github, Vim  
